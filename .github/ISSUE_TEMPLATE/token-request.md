@@ -11,7 +11,7 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Token Address: 
+Token Address (checkSum): 
 Token Name (from contract): 
 Token Decimals (from contract): 
 Token Symbol (from contract): 
