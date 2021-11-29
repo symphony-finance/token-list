@@ -1,0 +1,33 @@
+{
+  "name": "@symphony-finance/token-list",
+  "version": "1.0.0",
+  "description": "Symphony finance token list",
+  "main": "symphony.tokenlist.json",
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": ["symphony.tokenlist.json"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symphony-finance/token-list.git"
+  },
+  "keywords": [
+    "symphony",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Symphony Finance",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/symphony-finance/token-list/issues"
+  },
+  "homepage": "https://github.com/symphony-finance/token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "1.0.0-beta.25",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
