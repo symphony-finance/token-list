@@ -1,8 +1,10 @@
 {
-  "name": "Symphony Token List",
+  "name": "Symphony Output Token List",
   "timestamp": "2021-11-29T03:57:39.901Z",
   "version": {
     "major": 1,
+
+    
     "minor": 0,
     "patch": 0
   },
