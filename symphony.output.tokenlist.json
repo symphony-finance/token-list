@@ -3,8 +3,6 @@
   "timestamp": "2021-11-29T03:57:39.901Z",
   "version": {
     "major": 1,
-
-    
     "minor": 0,
     "patch": 0
   },
@@ -21,7 +19,7 @@
         "coingeckoId": "aave",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/aave.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -33,7 +31,7 @@
         "coingeckoId": "dai",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.png"
     },
     {
       "name": "USD Coin",
@@ -45,7 +43,7 @@
         "coingeckoId": "usd-coin",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdc.png"
     },
     {
       "name": "Tether USD",
@@ -57,7 +55,7 @@
         "coingeckoId": "tether",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.png"
     },
     {
       "name": "Wrapped BTC",
@@ -69,7 +67,7 @@
         "coingeckoId": "bitcoin",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.png"
     },
     {
       "name": "Wrapped Ether",
@@ -81,7 +79,7 @@
         "coingeckoId": "ethereum",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.png"
     },
     {
       "name": "Wrapped Matic",
@@ -93,7 +91,7 @@
         "coingeckoId": "matic-network",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.png"
     },
     {
       "name": "Aave Token",
@@ -105,7 +103,7 @@
         "coingeckoId": "aave",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/aave.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -117,7 +115,7 @@
         "coingeckoId": "dai",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.png"
     },
     {
       "name": "Chainlink Token",
@@ -129,7 +127,7 @@
         "coingeckoId": "chainlink",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.png"
     },
     {
       "name": "USD Coin",
@@ -141,7 +139,7 @@
         "coingeckoId": "usd-coin",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdc.png"
     },
     {
       "name": "Tether USD",
@@ -153,7 +151,7 @@
         "coingeckoId": "tether",
         "isStablecoin": true
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.png"
     },
     {
       "name": "Wrapped AVAX",
@@ -165,7 +163,7 @@
         "coingeckoId": "avalanche-2",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_64/https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/avax.png"
     },
     {
       "name": "Wrapped BTC",
@@ -177,7 +175,7 @@
         "coingeckoId": "bitcoin",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.png"
     },
     {
       "name": "Wrapped Ether",
@@ -189,7 +187,7 @@
         "coingeckoId": "ethereum",
         "isStablecoin": false
       },
-      "logoURI": "https://res.cloudinary.com/sushi-cdn/image/fetch/w_128/https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.png"
     }
   ]
 }
