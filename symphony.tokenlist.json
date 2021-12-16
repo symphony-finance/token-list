@@ -10,6 +10,19 @@
   "keywords": ["symphony", "defi", "default"],
   "tokens": [
     {
+      "name": "Polygon",
+      "address": "0x0000000000000000000000000000000000001010",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "matic-network",
+        "isStablecoin": false,
+        "isNative": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
+    },
+    {
       "name": "Aave",
       "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
       "symbol": "AAVE",
@@ -94,6 +107,19 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
     },
     {
+      "name": "Avalanche",
+      "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 43114,
+      "extensions": {
+        "coingeckoId": "avalanche-2",
+        "isStablecoin": false,
+        "isNative": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/avax.svg"
+    },
+    {
       "name": "Aave Token",
       "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
       "symbol": "AAVE",
@@ -154,7 +180,7 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.svg"
     },
     {
-      "name": "Wrapped AVAX",
+      "name": "Wrapped Avalanche",
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "symbol": "WAVAX",
       "decimals": 18,
