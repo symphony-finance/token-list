@@ -18,7 +18,8 @@
       "extensions": {
         "coingeckoId": "matic-network",
         "isStablecoin": false,
-        "isNative": true
+        "isNative": true,
+        "wrappedToken": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
     },
@@ -108,14 +109,15 @@
     },
     {
       "name": "Avalanche",
-      "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "AVAX",
       "decimals": 18,
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "avalanche-2",
         "isStablecoin": false,
-        "isNative": true
+        "isNative": true,
+        "wrappedToken": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/avax.svg"
     },
