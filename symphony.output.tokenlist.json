@@ -109,7 +109,7 @@
     },
     {
       "name": "Avalanche",
-      "address": "0x0000000000000000000000000000000000000000",
+      "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "AVAX",
       "decimals": 18,
       "chainId": 43114,
