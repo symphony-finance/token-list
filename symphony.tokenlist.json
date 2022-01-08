@@ -32,7 +32,7 @@
       "extensions": {
         "coingeckoId": "aave",
         "isStablecoin": false,
-        "strategy": "0x2ac5DDd589F41Cb840a073234fa364b8BF0952B8",
+        "strategy": "0xcAf326954A0b6973556fc52d15375287FC661253",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/aave.svg"
@@ -46,7 +46,7 @@
       "extensions": {
         "coingeckoId": "dai",
         "isStablecoin": true,
-        "strategy": "0xD586F16bB7a1DD30B2CDf7807072BF98feb609D8",
+        "strategy": "0x0081875d6e3249Be28A1F7E393Af4dF44F1A876c",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.svg"
@@ -60,7 +60,7 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "isStablecoin": true,
-        "strategy": "0x93E1acCe95676A3EB330bF38A0DEd23DF446136E",
+        "strategy": "0x718C6f1025328D8dB27Fa8d4FFDF6C03ec119430",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdc.svg"
@@ -74,7 +74,7 @@
       "extensions": {
         "coingeckoId": "tether",
         "isStablecoin": true,
-        "strategy": "0x0AA8C05c1706C30109f00f9655d5A2955F0720d4",
+        "strategy": "0xcad92b6139D18B41F3aB33c13e62616eC7036304",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.svg"
@@ -88,7 +88,7 @@
       "extensions": {
         "coingeckoId": "bitcoin",
         "isStablecoin": false,
-        "strategy": "0xd2236d0DB3eB9c0D3A29fcC3DEe38a16cb6366b5",
+        "strategy": "0xC1387236bf46b07DE9E28bF66f0c58300Da89bF5",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.svg"
@@ -102,7 +102,7 @@
       "extensions": {
         "coingeckoId": "ethereum",
         "isStablecoin": false,
-        "strategy": "0x3ECBB33BA2A54DB77f2D5ef10A0Af71053fFb674",
+        "strategy": "0xe3cB77366f5736fa51b025f19CA7ED6f78777fE4",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.svg"
@@ -116,7 +116,7 @@
       "extensions": {
         "coingeckoId": "matic-network",
         "isStablecoin": false,
-        "strategy": "0xCe76985444F584e63e603E7F3a5e5Ca9bD693A09",
+        "strategy": "0xD4fEcfFFe5A4Fe0733506D330965Cbb9B963C6b7",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
