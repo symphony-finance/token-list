@@ -33,6 +33,7 @@
         "coingeckoId": "aave",
         "isStablecoin": false,
         "strategy": "0xcAf326954A0b6973556fc52d15375287FC661253",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/aave.svg"
@@ -47,6 +48,7 @@
         "coingeckoId": "dai",
         "isStablecoin": true,
         "strategy": "0x0081875d6e3249Be28A1F7E393Af4dF44F1A876c",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.svg"
@@ -61,6 +63,7 @@
         "coingeckoId": "usd-coin",
         "isStablecoin": true,
         "strategy": "0x718C6f1025328D8dB27Fa8d4FFDF6C03ec119430",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdc.svg"
@@ -75,6 +78,7 @@
         "coingeckoId": "tether",
         "isStablecoin": true,
         "strategy": "0xcad92b6139D18B41F3aB33c13e62616eC7036304",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.svg"
@@ -89,6 +93,7 @@
         "coingeckoId": "bitcoin",
         "isStablecoin": false,
         "strategy": "0xC1387236bf46b07DE9E28bF66f0c58300Da89bF5",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.svg"
@@ -103,6 +108,7 @@
         "coingeckoId": "ethereum",
         "isStablecoin": false,
         "strategy": "0xe3cB77366f5736fa51b025f19CA7ED6f78777fE4",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.svg"
@@ -117,6 +123,7 @@
         "coingeckoId": "matic-network",
         "isStablecoin": false,
         "strategy": "0xD4fEcfFFe5A4Fe0733506D330965Cbb9B963C6b7",
+        "strategyName": "Aave",
         "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
@@ -143,7 +150,10 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "aave",
-        "isStablecoin": false
+        "isStablecoin": false,
+        "strategy": "0xcf2e6DBE122394DAbE98E3C772F35D6FEF7A22dc",
+        "strategyName": "Aave",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/aave.svg"
     },
@@ -155,21 +165,12 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "dai",
-        "isStablecoin": true
+        "isStablecoin": true,
+        "strategy": "0xB8273e61239aA7caF1245F54Dd01202f0be1809E",
+        "strategyName": "Benqi",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.svg"
-    },
-    {
-      "name": "Chainlink Token",
-      "address": "0x5947BB275c521040051D82396192181b413227A3",
-      "symbol": "LINK",
-      "decimals": 18,
-      "chainId": 43114,
-      "extensions": {
-        "coingeckoId": "chainlink",
-        "isStablecoin": true
-      },
-      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.svg"
     },
     {
       "name": "USD Coin",
@@ -179,7 +180,10 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "usd-coin",
-        "isStablecoin": true
+        "isStablecoin": true,
+        "strategy": "0xcF942Fe237016eA778d1F9A4b185b98913b35888",
+        "strategyName": "Benqi",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdc.svg"
     },
@@ -191,7 +195,10 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "tether",
-        "isStablecoin": true
+        "isStablecoin": true,
+        "strategy": "0x5141B02BC201C95f35882221f5CAdeab91BeA3E8",
+        "strategyName": "Benqi",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.svg"
     },
@@ -203,7 +210,10 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "avalanche-2",
-        "isStablecoin": false
+        "isStablecoin": false,
+        "strategy": "0xf241b559D7A71dEfc15411cf12b160C40a9c8fA3",
+        "strategyName": "Aave",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/avax.svg"
     },
@@ -215,7 +225,10 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "bitcoin",
-        "isStablecoin": false
+        "isStablecoin": false,
+        "strategy": "0xEE90C2363de62B11b42D206ed6C1b729BC738022",
+        "strategyName": "Benqi",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.svg"
     },
@@ -227,7 +240,10 @@
       "chainId": 43114,
       "extensions": {
         "coingeckoId": "ethereum",
-        "isStablecoin": false
+        "isStablecoin": false,
+        "strategy": "0x81CAae842b3dFF6b325b54E2BD67ac9d50B87031",
+        "strategyName": "Benqi",
+        "hasReward": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.svg"
     }

@@ -146,18 +146,6 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.svg"
     },
     {
-      "name": "Chainlink Token",
-      "address": "0x5947BB275c521040051D82396192181b413227A3",
-      "symbol": "LINK",
-      "decimals": 18,
-      "chainId": 43114,
-      "extensions": {
-        "coingeckoId": "chainlink",
-        "isStablecoin": true
-      },
-      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.svg"
-    },
-    {
       "name": "USD Coin",
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "symbol": "USDC",
