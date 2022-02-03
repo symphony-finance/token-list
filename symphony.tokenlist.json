@@ -129,6 +129,66 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
     },
     {
+      "name": "Curve DAO Token",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "curve-dao-token",
+        "isStablecoin": false,
+        "strategy": "0xAa75CA0b0162152390ABc9C7c8EA39f6b94f1C72",
+        "strategyName": "Aave",
+        "hasReward": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/crv.svg"
+    },
+    {
+      "name": "Balancer",
+      "address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+      "symbol": "BAL",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "balancer",
+        "isStablecoin": false,
+        "strategy": "0x46C96C02308953Ce019d23e7cA73EF9F61F8996c",
+        "strategyName": "Aave",
+        "hasReward": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/bal.svg"
+    },
+    {
+      "name": "Chainlink",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "balancer",
+        "isStablecoin": false,
+        "strategy": "0x57e19fe0248F501412D3EFc8cA33F64835853Fda",
+        "strategyName": "Aave",
+        "hasReward": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.svg"
+    },
+    {
+      "name": "Aavegotchi",
+      "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "symbol": "GHST",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "aavegotchi",
+        "isStablecoin": false,
+        "strategy": "0x68E57A34530c8B55BeEA18036cF4203cD6b13de0",
+        "strategyName": "Aave",
+        "hasReward": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/ghst.svg"
+    },
+    {
       "name": "Avalanche",
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "AVAX",
