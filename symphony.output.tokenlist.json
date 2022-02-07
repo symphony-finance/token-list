@@ -138,7 +138,7 @@
       "decimals": 18,
       "chainId": 137,
       "extensions": {
-        "coingeckoId": "balancer",
+        "coingeckoId": "chainlink",
         "isStablecoin": false
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.svg"
@@ -252,6 +252,30 @@
         "isStablecoin": false
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.svg"
+    },
+    {
+      "name": "BENQI",
+      "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+      "symbol": "QI",
+      "decimals": 18,
+      "chainId": 43114,
+      "extensions": {
+        "coingeckoId": "benqi",
+        "isStablecoin": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/qi.svg"
+    },
+    {
+      "name": "Chainlink",
+      "address": "0x5947BB275c521040051D82396192181b413227A3",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 43114,
+      "extensions": {
+        "coingeckoId": "chainlink",
+        "isStablecoin": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.svg"
     }
   ]
 }
