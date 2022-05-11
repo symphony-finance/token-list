@@ -124,7 +124,8 @@
         "isStablecoin": false,
         "strategy": "0xD4fEcfFFe5A4Fe0733506D330965Cbb9B963C6b7",
         "strategyName": "Aave",
-        "hasReward": true
+        "hasReward": true,
+        "isWrappedNativeToken": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/matic.svg"
     },
@@ -286,7 +287,8 @@
         "isStablecoin": false,
         "strategy": "0xf241b559D7A71dEfc15411cf12b160C40a9c8fA3",
         "strategyName": "Aave",
-        "hasReward": true
+        "hasReward": true,
+        "isWrappedNativeToken": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/avax.svg"
     },
