@@ -147,7 +147,7 @@
       "name": "TerraUSD",
       "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
       "symbol": "UST",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 137,
       "extensions": {
         "coingeckoId": "terrausd",
