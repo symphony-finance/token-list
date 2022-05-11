@@ -144,6 +144,18 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/link.svg"
     },
     {
+      "name": "TerraUSD",
+      "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "terrausd",
+        "isStablecoin": true
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/ust.svg"
+    },
+    {
       "name": "Aavegotchi",
       "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
       "symbol": "GHST",

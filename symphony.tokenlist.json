@@ -189,6 +189,19 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/ghst.svg"
     },
     {
+      "name": "TerraUSD",
+      "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+      "symbol": "UST",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "terrausd",
+        "isStablecoin": true,
+        "hasReward": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/ust.svg"
+    },
+    {
       "name": "Avalanche",
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "AVAX",
