@@ -375,7 +375,9 @@
       "extensions": {
         "coingeckoId": "aave",
         "isStablecoin": false,
-        "hasReward": false
+        "hasReward": false,
+        "strategy": "0x81CAae842b3dFF6b325b54E2BD67ac9d50B87031",
+        "strategyName": "Aave"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/aave.svg"
     },
@@ -388,7 +390,9 @@
       "extensions": {
         "coingeckoId": "dai",
         "isStablecoin": true,
-        "hasReward": false
+        "hasReward": false,
+        "strategy": "0x3e349EcB2c6bB2EaBcD47AD0c6AfCb30Aeec7474",
+        "strategyName": "Aave"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/dai.svg"
     },
@@ -401,7 +405,9 @@
       "extensions": {
         "coingeckoId": "usd-coin",
         "isStablecoin": true,
-        "hasReward": false
+        "hasReward": false,
+        "strategy": "0xcF942Fe237016eA778d1F9A4b185b98913b35888",
+        "strategyName": "Aave"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdc.svg"
     },
@@ -414,7 +420,9 @@
       "extensions": {
         "coingeckoId": "nusd",
         "isStablecoin": true,
-        "hasReward": false
+        "hasReward": false,
+        "strategy": "0x7E756dE98019F69b64560dFd5C95578f93dAb33f",
+        "strategyName": "Aave"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/susd.svg"
     },
@@ -427,7 +435,9 @@
       "extensions": {
         "coingeckoId": "tether",
         "isStablecoin": true,
-        "hasReward": false
+        "hasReward": false,
+        "strategy": "0x809F1AA348e2E35d8F69dd96E219F62B2f70901D",
+        "strategyName": "Aave"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/usdt.svg"
     },
@@ -441,6 +451,8 @@
         "coingeckoId": "ethereum",
         "isStablecoin": false,
         "hasReward": false,
+        "strategy": "0x7ffcEe844cf87c65AF845f62987952aAA4653cd1",
+        "strategyName": "Aave",
         "isWrappedNativeToken": true
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/eth.svg"
@@ -454,7 +466,9 @@
       "extensions": {
         "coingeckoId": "bitcoin",
         "isStablecoin": false,
-        "hasReward": false
+        "hasReward": false,
+        "strategy": "0x7D484F1047fa4343047cf95502409A267B7019e2",
+        "strategyName": "Aave"
       },
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.svg"
     }
