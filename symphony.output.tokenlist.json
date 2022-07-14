@@ -388,6 +388,18 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/btc.svg"
     },
     {
+      "name": "Optimism",
+      "address": "0x4200000000000000000000000000000000000042",
+      "symbol": "OP",
+      "decimals": 18,
+      "chainId": 10,
+      "extensions": {
+        "coingeckoId": "optimism",
+        "isStablecoin": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/op.svg"
+    },
+    {
       "name": "Ether",
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "ETH",
