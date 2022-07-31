@@ -190,6 +190,19 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/ghst.svg"
     },
     {
+      "name": "The Sandbox",
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "symbol": "SAND",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "the-sandbox",
+        "isStablecoin": false,
+        "hasReward": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/sand.svg"
+    },
+    {
       "name": "TerraUSD",
       "address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
       "symbol": "UST",

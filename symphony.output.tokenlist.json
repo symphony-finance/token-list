@@ -168,6 +168,18 @@
       "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/ghst.svg"
     },
     {
+      "name": "The Sandbox",
+      "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+      "symbol": "SAND",
+      "decimals": 18,
+      "chainId": 137,
+      "extensions": {
+        "coingeckoId": "the-sandbox",
+        "isStablecoin": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/symphony-finance/token-list/master/assets/sand.svg"
+    },
+    {
       "name": "Avalanche",
       "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
       "symbol": "AVAX",
